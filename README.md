@@ -1,6 +1,6 @@
 # Product-Performance-Analysis-Dashboard
 
-# This dasboard was built using PowerBI [Product Performance Analysis Dashboard]([https://pages.github.com/](https://app.powerbi.com/groups/me/reports/c0b51b91-98ae-4d3e-bfcd-9aa08d09581c?ctid=5fbe5d72-4e8f-492f-a625-aeb1b2c90238&pbi_source=linkShare&bookmarkGuid=847aead5-32b4-487a-8513-848a18a845a4)).
+# This dasboard was built using PowerBI [Product Performance Analysis Dashboard](https://pages.github.com/](https://app.powerbi.com/groups/me/reports/c0b51b91-98ae-4d3e-bfcd-9aa08d09581c?ctid=5fbe5d72-4e8f-492f-a625-aeb1b2c90238&pbi_source=linkShare&bookmarkGuid=847aead5-32b4-487a-8513-848a18a845a4).
 
 
 
